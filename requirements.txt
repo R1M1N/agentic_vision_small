@@ -1,0 +1,14 @@
+# requirements.txt
+torch
+torchvision
+transformers
+Pillow
+matplotlib
+numpy
+fastapi
+uvicorn[standard]
+requests
+python-multipart
+gradio
+gradio_image_annotation
+segment-anything
